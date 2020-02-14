@@ -1,0 +1,12 @@
+Thu Feb 13 18:51:12 UTC 2020
+adult2.csv
+adult.csv
+adult.data
+adult_sample.csv
+adult_sample_with_header.csv
+bird.txt
+feb13.txt
+header.csv
+insect.txt
+README.md
+reptile.txt
